@@ -1,0 +1,146 @@
+Mauricio Varela Molina
+mauvarelam@gmail.com
++ 506 8337-6058
+Location: Costa Rica
+LinkedIn:https://www.linkedin.com/in/mauricio-varela-cr/
+Portfolio: https://www.behance.net/mauvarela
+github: https://github.com/mvarelam
+
+
+Summary
+Product Manager with 10+ years of experience across software engineering, UX architecture, and entrepreneurship. Key player in scaling an AI platform to 30,000 users and $35M ARR in its first year. Startup founder with a successful exit and deep expertise in developer-centric products, cloud infrastructure, and Kubernetes.
+
+Experience
+Intel Corporation
+San José, Costa Rica
+Senior Product Manager, AI Cloud
+June 2023 - Current Role
+
+As a key Product Manager on a hyper-growth AI cloud platform, I was a pivotal contributor to scaling the business from $1M to $35M in Annual Recurring Revenue (ARR) and 0 to 30,000 users in its first year. I owned the product strategy and execution for all primary user-facing touchpoints, including the marketing site, web console, documentation, and notifications.
+Achievements:
+Drove a 4x increase in user activation (9% to 36%) and a 21x increase in sign-up completion (2% to 43%) by redesigning key user journeys based on interviews, usage analytics, and competitive analysis.
+Established a suite of product dashboards to track critical KPIs (web events, usage analytics, CSAT), providing the data-driven insights that guided prioritization and led to shipping over 40 high-impact UI/UX improvements.
+Enhanced the overall developer experience for critical touchpoints and services, including: a developer learning catalog that doubled its user engagement goals, a bare metal kubernetes service (both earning internal recognitions), a documentation site content strategy that reduced bounce rates on top-visited pages by 10%. This was achieved by leveraging my growth and technical knowledge. Other features included account security, storage services and billing services.
+Championed a "maximum impact, minimum effort" philosophy, frequently recognized for creatively solving complex UI/backend challenges within technical constraints to reduce user "time to value."
+
+Intel Corporation
+San José, Costa Rica
+User Experience Architect
+December 2021 – June 2023
+
+Drove UX strategy and architecture for enterprise-level IT products, delivering reusable design assets and actionable design strategies.
+Achievements:
+Doubled user satisfaction scores from 40 to 80 for an internal Gen AI-enabled chatbot by redesigning the core interaction model and user flow.
+Pioneered an experiment-led framework to measure frontend technology adoption, providing the first usage data in 8 years and establishing a process that prevented technical debt for 200+ development teams.
+Directed the UX strategy for an emerging gen ai product, delivering 27 actionable recommendations that directly shaped the product roadmap toward a usability and growth strategy.
+Designed and delivered key reusable assets including user personas, service blueprints, experience maps, design principles and design system components to standardize and elevate design quality across projects.
+Key Technologies & Methodologies:
+ReactJS, Python, NodeJS, HTML/CSS, GitHub, Prototyping, Accessibility Testing, Design Systems, Service Design.
+
+Defter Sports
+San José, Costa Rica
+Product Manager / UX Designer / CEO / Developer
+Jan 2018 – Nov 2021
+
+Qualifications & Responsibilities:
+Product management and UX design: design research & synthesis, UI design, stabilization and roadmap definition of the company’s products: a mobile app, a web platform and an AI/ML engine. Manager of the product from concept to release. Defined the product’s vision and strategy using synthesis, wireframing, prototyping and testing, incorporating both quantitative and qualitative data in an iterative process.
+Company management, leading a team of 7. In charge of guiding sales and marketing.
+Development: full stack development. Technologies used: HTML5, CSS3, Angular, Nativescript, Swift, NodeJS, React, Firebase, ML Kit, AWS EC2, GitLab, Netlify, RESTful API.
+Achievements:
+Created a successful exit for the company, selling the intellectual property.
+Lead a bootstrapped, product-first company to obtain customers in 4 countries and 10,000 users in 12 countries. Chosen as Best Startup in Seedstars World Competition Costa Rica 2018.
+Raised non-dilutive capital for the company in two different occasions.
+
+Freelance
+Remote
+Senior Software Engineer / Interaction Designer
+Jul 2020 – Jul 2021
+
+Qualifications & Responsibilities:
+Frontend developer consultant for Backbase: Online multi-channel banking platform. Job included customer-facing consulting. Certified Backbase frontend developer. Technologies used: Angular, HTML5, SCSS, JS, TS, Keycloak, RxJS, Kubernetes, Cucumber, Git, RESTful APIs, Docker.
+Technical leader for Loyalty Sci (a Backbase partner): my role at the company was to lead the frontend development and UX design teams for a web and mobile banking platform. Lead consultant to the customer. Technologies used: Sketch, HTML5, SCSS, Keycloak, Angular, Typescript, RxJS.
+Centro para la Sostenibilidad Urbana: technology consultant and advisor in climate change and sustainability projects.
+Achievements:
+Lead 2 business web banking platform implementations using agile methodologies. 
+Designed an online collaboration process for climate change and gender equity experts during COVID-19 shutdown in Europe and USA.
+
+Intel Corporation
+San José, Costa Rica
+User Experience Architect
+Sep 2018 – Sep 2019
+
+Qualifications & Responsibilities:
+In charge of driving the UX strategy for fintech projects through the corporation. Worked coordinating multiple project teams and service owners to ensure that delivered products fit together in the desired user experience for finance analysts, requiring coordination with other architects and training of engineers and project managers. In charge of conducting user research resulting in the creation of reusable assets for in-house teams and SaaS vendors.
+User Research: designed, performed, and synthesized research findings for IT projects using co-design sessions, surveys, user interviews, user story mapping sessions and analytics. Performed pathfinding on how to use NLP to accelerate the synthesis of survey comments. 
+Achievements:
+Created reusable assets such as user personas, experience maps, service blueprints, experience goals, design principles and a design system for finance IT projects.
+Coordinated with other senior architects to drive service owners to implement and use UX artifacts in their decision making and project delivery.
+
+Intel Corporation
+San José, Costa Rica
+Interaction Designer
+Aug 2014 – Sep 2018
+
+Qualifications & Responsibilities:
+In charge of designing the user experience for software products. Responsibilities included performing user research, user group coordination, UI and information design, prototyping, usability testing, product training design and facilitating sprint reviews with stakeholders.
+Frontend developer coaching: taught development teams on new frontend technologies (Bootstrap, Angular, HTML5, SASS, SAP Fiori, Lightning, Material, accessibility). Created reusable, production-ready UI components for various teams. 
+Local UX community of practice chairman: designed and facilitated UX training. 
+Achievements:
+Designed and developed a reusable CSS framework used in 42 applications. 
+Designed the UI of a project that saved 147,420 hours.
+Conducted user research that saved 7 weeks of work to technical teams; delivered UI design improvements that decreased 64% of support tickets and saved more than 37,000 hours to users.
+Designed and facilitated more than 60 training sessions to more than 800 attendees in topics related to user experience and agile methodologies (Scrum, DevOps, BDD).
+
+Intel Corporation
+San José, Costa Rica
+Software Engineer
+Jan 2010 – Aug 2014
+
+Qualifications & Responsibilities:
+Full stack developer. In charge of developing features and providing L3 support for business applications, services and databases.
+Agile coach from 2012 onwards. Responsible for designing and facilitating trainings to teams on how to adopt agile development methodologies (scrum, BDD, TDD, Kanban). 
+Achievements:
+Enabled a 331% improvement on deployments per week. Lead the implementation of features that allowed hundreds of users to save more than 300 hours each.
+Contributed to setting agile process standards for an organization of more than 300 distributed members.
+
+
+Education  	
+M.Sc. in Interaction Design
+San José, Costa Rica
+
+Universidad Veritas
+January 2014 – November 2015
+
+B.S. in Software Engineering
+Cartago, Costa Rica
+
+Costa Rica Institute of Technology (ITCR)
+February 2005 – June 2010
+
+
+Skills
+Design Research: User interviews, observation and field studies, survey design, demographics, research probes, NVivo, usage analytics, A/B testing.
+Design Synthesis: Facilitating participatory co-design sessions, personas, experience maps, design principles, service blueprints, user flows, user journeys, impact mapping.
+Prototyping: Sketch, Axure, Figma, Invision, Adobe XD, Processing JS, storyboarding, wireframes.
+Product Management: experimentation, AARRR, Kano model, OKRs, Jobs to be done. HEART.
+Frontend: HTML5, JS, TS, CSS3, SASS, Angular, RxJS, JAM Stack, ReactJS, SEO optimization.
+Development:Python, Java, C#, SQL, No-SQL, GIT, pipelines, Firebase, G cloud, AWS, Docker, Kubernetes, RESTful APIs (OpenAPI, RAML).
+Visual Design: Instructional design, data and information visualization design, typography, Adobe CS.
+
+Projects 	
+Covid-19 vaccine locator Costa Rica
+2021
+Created and deployed the first web platform to offer a simple way to locate covid-19 vaccine locations in Costa Rica. Open-source project. https://vacunascovidcostarica.netlify.app/
+
+Digital Committee
+2017-2018
+Liga Deportiva Alajuelense. As a volunteer, lead the digital committee to help a professional soccer team to start its digital transformation in areas of scouting, sports science, ticketing and social networking.
+
+Awards
+Seedstars and PROCOMER
+2018
+Seedstars Costa Rica, Startup of the year awarded to Defter Sports.
+
+Intel CREATE
+2012, 2013 
+Best Presentation and best technical paper, Conference presentations in agile adoption to best practices in information visualization design. 
